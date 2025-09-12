@@ -10,12 +10,12 @@ This improves performance in multi-device scenarios and ensures cross-platform c
 ---
 
 ## Features  
-- 🟢 **Multi-client BLE central role** (tested with multiple simultaneous connections).  
-- 🟢 **Lightweight serial protocol** for host communication.  
-- 🟢 **Real-time notification streaming** from peripherals.  
-- 🟢 **Read/Write characteristic access** from host PC.  
-- 🟢 **MTU negotiation up to 447 bytes** for high-throughput communication.  
-- 🟢 **Python host scripts** for scanning, connecting, and data exchange.  
+-  **Multi-client BLE central role** (tested with multiple simultaneous connections).  
+-  **Lightweight serial protocol** for host communication.  
+-  **Real-time notification streaming** from peripherals.  
+-  **Read/Write characteristic access** from host PC.  
+-  **MTU negotiation up to 447 bytes** for high-throughput communication.  
+-  **Python host scripts** for scanning, connecting, and data exchange.  
 
 ---
 
